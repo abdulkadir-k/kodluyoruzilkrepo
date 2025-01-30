@@ -20,7 +20,6 @@ Linux için
 ``` 
 cd kodluyoruzilkrepo
 code
- 
  ```
 
 ## Contributing
@@ -33,4 +32,4 @@ Pull request kabul edilir. Büyük değişiklikler için, lütfen önce neyi de�
 
 
 
-![Proje Görseli]()
+![Proje Görseli](https://github.com/abdulkadir-k/kodluyoruzilkrepo/blob/main/proje.png)
